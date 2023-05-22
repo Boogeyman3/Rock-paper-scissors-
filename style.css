@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    
+    justify-content: center;
+}
+h2{
+    font-size: 3rem;
+}
+.rps{
+    box-shadow: 5px 5px 5px rgba(37, 20, 20, 1);
+}
